@@ -198,7 +198,7 @@ mproved Prompt:
  "Explain how artificial intelligence is transforming healthcare, including three key benefits and challenges."
 
 Why is this improved prompt more effective?
- More Specific: It focuses on AI’s role in healthcare, not technology as a whole.
+ More Specific: It focuses on AI ’s role in healthcare, not technology as a whole.
  Clear Expectations: It requests three benefits and challenges, ensuring a structured response.
  Concise & Direct: The AI can now generate a precise, well-organized answer.
 
